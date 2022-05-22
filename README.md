@@ -1,7 +1,7 @@
 # SQL-Project-Spring-2022
 A SQL project from university.
 
-We created a project based on a business idea and completed the following:
+We completed a project based on a business idea and completed the following:
 
 1) Created a conceptual model to satisfy the needs of the organization, allowing the insertion,
 modification, and deletion of data without causing data integrity problems.

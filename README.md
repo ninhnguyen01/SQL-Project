@@ -21,4 +21,4 @@ considered successful.
 4. Description of some of the tasks expected from the database, and related SQL queries
 to get the answers to your question.
 
-Note: We chose MAMP as our application to import the database and execute the SQL queries. It can also be duplicated with MYSQL and Oracle SQL. Please be aware of slight syntax differences if you wish to replicate our project with your chosen SQL Rdbms.
+Note: We chose MAMP (mostly) as our application to import the database and execute the SQL queries. It can also be duplicated with MYSQL and Oracle SQL. Please be aware of slight syntax differences if you wish to replicate our project with your chosen SQL Rdbms.

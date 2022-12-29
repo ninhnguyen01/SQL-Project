@@ -1,5 +1,4 @@
-# SQL-Project-Spring-2022
-A SQL project from university.
+### SQL Project ###
 
 We completed a project based on a business idea and demonstrated the following:
 
